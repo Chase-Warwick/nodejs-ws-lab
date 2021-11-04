@@ -1,0 +1,27 @@
+Question 1: What do you see in the browser? When you open another tab and perform a click/drag action, what happens?
+
+	A bunny like creature on a black canvas. When I open another tab and perform a click/drag action I see that 
+	the state of the application is consistent between the tabs.
+
+-------------------------------------------------------------------------------------------------------------------
+Question 2: What are some of the differences between TypeScript and JavaScript?
+
+	The primary difference between TypeScript and JavaScript is that TypeScript is statically typed and has
+	more support/is more suited for the object oriented programming paradigm.
+
+-------------------------------------------------------------------------------------------------------------------
+Question 3: Why is a web application bundler (Parcel, Webpack, Rollup, etc.) useful for modern web projects? 
+What are some features that ParcelJS provides?
+
+	Modern applications have many dependancies and web application bundlers handle the building of the application
+	linking distinct pieces together so that programmers can focus more on application logic. Parcel specifically 
+	automatically installs all necessary plugins and dev dependancies, Includes a dev server, and has hot reloading 
+	meaning no reload is necessary when changes are made. it also has diagnostics which help to pinpoint errors.
+
+--------------------------------------------------------------------------------------------------------------------
+Question 4: What are the different values for the readyState a WebSocket can be in? Briefly describe what each state means. (Hint: check out the Mozilla WebSocket API)
+	0 CONNECTING, 1 OPEN, 2 CLOSING, 3 CLOSED
+	
+--------------------------------------------------------------------------------------------------------------------
+Question 5: What's the link to your github repo?
+	https://github.com/Chase-Warwick/nodejs-ws-lab
